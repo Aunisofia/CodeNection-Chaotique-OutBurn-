@@ -1,3 +1,4 @@
+
 # [OUTBURN] by Chaotique
 **Team Name:** 
 1. Auni Sofia binti Abd Rahman
@@ -19,18 +20,22 @@
 
 ### 1.2 Our Solution
 
+
+Table of the solution and its explanation after a few discussions to choose suitable features based on the problem statement. 
+
+                       Table 1.2 : List of Solution and Explanation
+
 | Feature | Explanation |
 | :--- | :--- |
-| **Link to Google Calendar** | • Syncs across phone, laptop, tablet making it easier for users to track their work without updating multiple times on different gadgets.<br>• Gives notification/alert to user if they haven't started their task yet.<br>• Acts as a record for their work. |
-| **Link to University Email** | • Auto-updates tasks once lecturers upload new materials.<br>• Avoids manual workload to check each assignment/exercise.<br>• Reduces risk of missing exercises or assignments. |
-| **AI Workload Rebalance** | • Auto-rebalances user's workload once approval is received from users.<br>• Rebalances based on task urgency to prevent users from becoming overwhelmed[cite: 1].<br>• Keeps schedule manageable. |
-| **Smartwatch Integration** | • Monitors stress levels based on user configuration.<br>• Pops up alert notifications and triggers watch/phone vibration upon stress detection.<br>• Designed to detect stress early before it worsens. |
-| **List of Tasks** | • Allows users to manually add tasks.<br>• Supports uploading task images to extract information via AI, reducing manual input.<br>• Displays extracted info for user verification and error correction.<br>• Auto-syncs with university email. |
-| **Study Session** | • Enhances focus through interactive duration selection and music choice (connects to Spotify).<br>• Makes studying feel more interesting. |
-| **Recovery Quest** | • Optional feature providing micro-activities to lower stress levels during breaks or post-task. |
-| **Percentage Completed Task** | • Displays completed workload progress.<br>• Motivates or alerts users to finish tasks and track progress over time. |
-| **Widget** | • Shows pending and high-priority tasks directly on the home screen without opening the app.<br>• Minimal and simple view keeping tasks neatly sorted. |
-
+| **Link to Google Calendar** | • Syncs across phone, laptop, tablet, making it easier for users to track their work without the need to update many times on different gadgets.<br>• Gives notification/alert to user if they haven't started their task yet.<br>• Acts as a record for their work. |
+| **Link to University Email** | • Auto-updates task once lecturer uploads new materials.<br>• Avoids manual workload to check each assignment/exercise.<br>• Reduces risk of missing exercise or assignment. |
+| **AI Workload Rebalance** | • Auto-rebalances user's workload once approval is received from users.<br>• Rebalances based on work's urgency.<br>• Avoids users from being overwhelmed with too much work at once.<br>• Keeps schedule manageable. |
+| **Smartwatch Integration** | • Users can monitor their stress level based on the option they choose.<br>• Once stress is detected, an alert notification pops up.<br>• The watch will vibrate as well as the phone to alert the user.<br>• Designed to detect stress early before it gets worse. |
+| **List of Tasks** | • Users can manually add tasks by themselves.<br>• Users can upload an image of their task to reduce manual workload, where AI will help retrieve the task information.<br>• Once the task has been extracted by the AI, all task information is displayed so users can correct any mistakes that AI makes.<br>• Can also auto-sync with the university email. |
+| **Study Session** | • Helps user to focus since it is more interactive.<br>• User can choose their duration and stay more focused through their music choice.<br>• Can connect to Spotify.<br>• Makes studying feel more interesting. |
+| **Recovery Quest** | • Additional feature to help users lower their stress level.<br>• Can also be used during study breaks.<br>• Fully optional, meaning if users don't want to use it, it's okay. |
+| **Percentage Completed Task** | • Displays how much of the user's workload progress has been completed.<br>• Motivates or alerts users to complete all their tasks.<br>• Users can track their progress over time. |
+| **Widget** | • User can check their tasks from the home screen without having to open the app multiple times.<br>• Shows only pending and priority tasks.<br>• Minimal and simple view that alerts users to complete their tasks since everything is already sorted neatly. |
 ---
 
 ## 2. Ideation & Process
@@ -187,14 +192,34 @@ We suggest doing this during our first discussion where users need to exercise a
 ### 3.1 Overview of Implemented Features
 **UI Prototype:** [ https://remix-remix-study-task-tracker-4635.ai.studio/ ]
 
-<br>**Figure 3.1: Option to connect to Google Calendar and university Email**
-<br>**Figure 3.2: Auto update new task into list of task once lecturer upload new materials**
-<br>**Figure 3.3: Option to rebalance workload once users feel overwhelmed with too much work**
-<br>**Figure 3.4: Request message display on smartwatch screen when stress is detected by track any changes in user’s heartbeat**
-<br>**Figure 3.5: Two ways of add new task information : Manually key in or extract using AI by upload image**
-<br>**Figure 3.6: Pomodoro inspired study session by select or custom study duration with additional interactive timer**
-<br>**Figure 3.7: Music studio with variety of music option to make user focus during study**
- 
+<img width="447" height="608" alt="Screenshot 2026-09-12 232645" src="https://github.com/user-attachments/assets/040124e0-08cb-4bf3-b5f4-77a5eecb7115" />
+
+<strong>Figure 3.1: Option to connect to Google Calendar and university Email</strong>
+
+<img width="756" height="615" alt="Screenshot 2026-09-12 233628" src="https://github.com/user-attachments/assets/6c161fef-f109-489e-aa25-f745ba2532ec" />
+
+<strong>Figure 3.2: Auto update new task into list of task once lecturer upload new materials</strong>
+
+<img width="662" height="673" alt="Screenshot 2026-09-12 233655" src="https://github.com/user-attachments/assets/f52cdb7b-787d-45b5-b995-db56ecef3d0d" />
+
+<strong>Figure 3.3: Option to rebalance workload once users feel overwhelmed with too much work</strong>
+
+<img width="576" height="568" alt="Screenshot 2026-09-12 233957" src="https://github.com/user-attachments/assets/0ca5b90c-e41c-4967-9608-0b6e0169914c" />
+
+<strong>Figure 3.4: Request message display on smartwatch screen when stress is detected by track any changes in user's heartbeat</strong>
+
+<img width="907" height="532" alt="Screenshot 2026-09-12 234415" src="https://github.com/user-attachments/assets/9ad56dff-c0b8-4c14-9b8a-48fac953617a" />
+
+<strong>Figure 3.5: Two ways of add new task information: Manually key in or extract using AI by upload image</strong>
+
+<img width="431" height="501" alt="Screenshot 2026-09-12 234552" src="https://github.com/user-attachments/assets/4263d184-73fa-4534-84ad-3f4cab9741d2" />
+
+<strong>Figure 3.6: Pomodoro inspired study session by select or custom study duration with additional interactive timer</strong>
+
+<img width="430" height="586" alt="Screenshot 2026-09-12 234632" src="https://github.com/user-attachments/assets/ef71c59f-8b29-4a2d-9368-d0ca0c519bef" />
+<br><strong>Figure 3.7: Music studio with variety of music option to make user focus during study</strong>
+
+
 
 ---
 
