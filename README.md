@@ -62,6 +62,8 @@ Table of every distinct idea generated, with why each was kept or dropped, order
 
 ### 2.2 Ideation Boards & System 
 
+**Figma Link:* [ https://www.figma.com/design/B2d6OYK5IDoggkkAur8ppf/Untitled?node-id=0-1&t=nxhLKxBY2fqKOEYc-1 ]
+
 <img width="310" height="262" alt="image" src="https://github.com/user-attachments/assets/f354c597-ea78-4d94-9f8c-35b2df6da2d6" />
 
 #### Figure 2.2.1: Smart Watch Stress Detector
