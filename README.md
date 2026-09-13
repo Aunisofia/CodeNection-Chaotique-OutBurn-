@@ -55,73 +55,119 @@ Table of every distinct idea generated, with why each was kept or dropped, order
 | **Extracted Task from Voice Note** | Dropped | Impractical method; users prefer uploading an image over explaining tasks verbally. |
 | **Allocated Hours for a Task** | Dropped | Inflexible; students have unique study methods and often exceed fixed time allocations. |
 
-### 2.2 Ideation Boards & System Workflow
+### 2.2 Ideation Boards & System 
+
+<img width="310" height="262" alt="image" src="https://github.com/user-attachments/assets/f354c597-ea78-4d94-9f8c-35b2df6da2d6" />
 
 #### Figure 2.2.1: Smart Watch Stress Detector
 * Using a smart watch to detect if the user is stressed or not when they are doing any task. If the stress level are high, vibration will occur on the watch and phone to alert user to stop and have a rest first
 
+<img width="481" height="497" alt="Screenshot 2026-09-13 165458" src="https://github.com/user-attachments/assets/6b8ddb30-9a25-462c-b49d-e06f9949b8d6" />
+
 #### Figure 2.2.2: Calming Down & Recovery Interventions
 * Users can choose to either take a break or just dismiss the notification. If they choose to take a break the breathing technique will pop up or they will show any quest that can help user recover
+
+<img width="946" height="822" alt="Screenshot 2026-09-13 165530" src="https://github.com/user-attachments/assets/79700d60-8f9e-4d63-bb70-d35c7249da95" />
 
 #### Figure 2.2.3: Baseline Monitoring Interface
 * Users can choose to either take a break or just dismiss the notification. If they choose to take a break the breathing technique will pop up or they will show any quest that can help user recover
 
+<img width="337" height="626" alt="Screenshot 2026-09-13 171311" src="https://github.com/user-attachments/assets/263497cf-3d44-4201-b135-eeb3609b2ff8" />
+
 #### Figure 2.2.4: Third-Party Ecosystem Concept
 * We got the idea from browsing the internet and found Google Fit. We also plan (if can) to have collaboration with the third-party ecosystem
+
+<img width="442" height="565" alt="Screenshot 2026-09-13 165927" src="https://github.com/user-attachments/assets/96d2cc0e-470a-4a45-877b-1f85b8667c2a" />
 
 #### Figure 2.2.5: Interactive Study Session & Gamification
 * We plan to include some cute focus buddies that can be more interactive when the user uses the study mode. We also put some musics/noises that user can use as a background sound 
 
+<img width="443" height="697" alt="Screenshot 2026-09-13 165903" src="https://github.com/user-attachments/assets/498de79d-093d-4227-9393-86707e77782b" />
+
 #### Figure 2.2.6: Calender
 * Having a calendar in the app will be great so that the user can check their workload schedule easily. But since we plan to connect with the Google Calendar, this might be our last choice feature.
+
+<img width="425" height="345" alt="Screenshot 2026-09-13 165959" src="https://github.com/user-attachments/assets/916cd150-7fb6-4ec5-aca5-e8c08b055db1" />
 
 #### Figure 2.2.7:  Daily Stress Check-in
 * We want to add this for the user to tell how they feel today to detect their feeling/stress. But for us it might not be too accurate.
 
+<img width="345" height="608" alt="Screenshot 2026-09-13 170035" src="https://github.com/user-attachments/assets/9eeaa2cb-a82d-4631-8297-030110991536" />
+
 #### Figure 2.2.8:  AI Break and Productivity Optimizer
 * Using AI to suggest what recovery quest that user can do based on what kind of workload that they have been made.
+
+<img width="342" height="467" alt="Screenshot 2026-09-13 170118" src="https://github.com/user-attachments/assets/8239a3e8-3dd2-4bfc-9e28-2d6b8fed37a9" />
 
 #### Figure 2.2.9:  Insight for the future week recovery quest
 * The apps can suggest what recovery quest recommended to the user based on how well they are doing the the current provided recovery quests
 
+<img width="296" height="256" alt="Screenshot 2026-09-13 170405" src="https://github.com/user-attachments/assets/01528f3b-1f52-4f56-9b72-9a33cf8c191e" />
+
 #### Figure 2.2.10:  The Focus Insight
 * For the user to see how well they have been done for a week. They can also view it in month
+
+<img width="305" height="646" alt="Screenshot 2026-09-13 170427" src="https://github.com/user-attachments/assets/60b21ea0-08a6-41cf-98af-6d4907c5a79f" />
 
 #### Figure 2.2.11: Recharge Notification
 * When the user has been too long doing a task and using the app, a notification will pop up asking them to have a rest first.
 
+<img width="397" height="246" alt="Screenshot 2026-09-13 170731" src="https://github.com/user-attachments/assets/2376dc97-a49e-4d11-960f-3e2eeaab4506" />
+
 #### Figure 2.2.12:  Task History
 * We plan to have a task history for the user to see back what tasks they have been done. But this feature might be included since we plan to connect to Google Calendar so users can just see it from there.
 
+<img width="370" height="202" alt="Screenshot 2026-09-13 170804" src="https://github.com/user-attachments/assets/003e1efd-496d-4712-b3dc-67af43d9e68a" />
+
 #### Figure 2.2.13:  Finished Task Percentage
 * The insight where user can see how much tasks they have been done
-  
+
+<img width="315" height="100" alt="Screenshot 2026-09-13 170917" src="https://github.com/user-attachments/assets/49743bcb-12f4-4bf4-a311-612f7f3b481c" />
+
 #### Figure 2.2.14: App notification
 * We plan to have an app notification to alert user about the tasks that they need to do if they have not yet started yet as well as other notification
+
+<img width="376" height="850" alt="Screenshot 2026-09-13 171006" src="https://github.com/user-attachments/assets/5c95bfc3-4aac-4161-aab4-41a5d7d98ddd" />
 
 #### Figure 2.2.15:  In app calendar pop up
 * Aside from a tab of calendar in the app, a simple way to include the calendar is just adding a pop up calendar where the date that has the task due date will be pin with a dot
 
+<img width="372" height="850" alt="Screenshot 2026-09-13 171042" src="https://github.com/user-attachments/assets/6281d23f-6c38-4852-bbbc-bee4495d176c" />
+
 #### Figure 2.2.16: Study Timer Pop Up
 * To make the app has a study timer, we first plan to have a timer that use a pomodoro technique
+
+<img width="317" height="190" alt="Screenshot 2026-09-13 171205" src="https://github.com/user-attachments/assets/09813b62-b01b-4c18-9899-9705773505a5" />
 
 #### Figure 2.2.17: Start and End Task
 * We plan to add the start time and end time on how much the user spent to finish the task to detect how tired they might feel after finishing the task (might not be accurate). It also has the stop function where user can resume back the work in another time
 
+<img width="553" height="302" alt="Screenshot 2026-09-13 170851" src="https://github.com/user-attachments/assets/878d429d-3f22-41b2-ad4c-e497280f8a5d" />
+
 #### Figure 2.2.18: App Notification 2
 * Another setting design for the app notification
+
+<img width="1175" height="666" alt="image" src="https://github.com/user-attachments/assets/527bca97-864e-4695-b89e-f0b89a246bd1" />
 
 #### Figure 2.2.19: Final Discussion
 * Our final discussion about the feature that we will be finally add into our app based on what we have get the insights from the mentors
 
+<img width="1175" height="655" alt="image" src="https://github.com/user-attachments/assets/75cc9347-abe6-4065-8498-068a6963ce88" />
+
 #### Figure 2.2.20: Adding Spotify Music
 * We try to add and connect to the Spotify music player as a new feature because we think most users like to do their work while listening to their favourite music. We also try to correct on how user will add their task to the app
+
+<img width="1088" height="608" alt="image" src="https://github.com/user-attachments/assets/a617e743-bcad-489a-9d01-80d403e9971f" />
 
 #### Figure 2.2.21: Building Widget
 * We discuss together how the widget works for the app since some users might want to see their tasks that need to be done without opening the app. This can actually save their time
 
+<img width="1095" height="616" alt="image" src="https://github.com/user-attachments/assets/1ea5ff45-6c15-4804-bdbf-971f935415ee" />
+
 #### Figure 2.2.22: AI Rebalance Task
 * We decided to add the AI rebalance task to help users cope with stress if there are a lot of tasks that they need to finish. The AI Rebalance will rearrange back the use task based on their priority
+
+<img width="477" height="857" alt="image" src="https://github.com/user-attachments/assets/5dcc755f-2102-4224-8446-064c74eb68df" />
 
 #### Figure 2.2.23: Alarm Lock
 ( https://vt.tiktok.com/ZSVo7Y4F9/ )
